@@ -7,7 +7,6 @@ const whitelist = [
   "http://localhost:3000",
   "http://localhost:5000",
   'https://jawad606.github.io',
-  'https://jawad606.github.io/'
 ];
 var corsOptionsDelegate = (req, callback) => {
   var corsOptions;
